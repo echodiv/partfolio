@@ -1,0 +1,7 @@
+# python
+*.pyc
+.env
+__pycache__
+# ide
+.idea
+
